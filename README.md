@@ -29,10 +29,11 @@ python taopiaopiao_crawler.py
 ```
 
 2. login in and enter city selector page
+
     ![alt text](docs/image.png)
 
-3. press enter in terminal to continue
+4. press enter in terminal to continue
 
-4. iterate city list, get cinema info
+5. iterate city list, get cinema info
 
-5. save data to file
+6. save data to file
