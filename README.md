@@ -1,6 +1,6 @@
 # Taopiaopiao cinema crawler
 
-# Ssage
+# Usage
 
 ## Environment
 
