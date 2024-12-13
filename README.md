@@ -1,8 +1,8 @@
-# taopiaopiao cinema crawler
+# Taopiaopiao cinema crawler
 
-# usage
+# Ssage
 
-## environment
+## Environment
 
 - python 3.6.13
 - beautifulsoup4 (4.12.3)
@@ -15,10 +15,24 @@
 - wheel (0.37.1)
 - wincertstore (0.2)
 
-## 
+## Webdriver
 
-## run
+- msedgedriver 131.0.2903.99
+- browser edge
+
+## Steps
+
+1. run
 
 ```bash
 python taopiaopiao_crawler.py
 ```
+
+2. login in and enter city selector page
+    ![alt text](image.png)
+
+3. press enter in terminal to continue
+
+4. iterate city list, get cinema info
+
+5. save data to file
