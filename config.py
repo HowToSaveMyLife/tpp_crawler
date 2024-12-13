@@ -1,3 +1,5 @@
+# TODO: Implement Configuration Management
+
 # Webdriver settings
 WEBDRIVER_PATH = r'e:/webdriver/msedgedriver'
 BROWSER_TYPE = 'edge'  # 'edge', 'chrome', 'firefox'

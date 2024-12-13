@@ -29,7 +29,7 @@ python taopiaopiao_crawler.py
 ```
 
 2. login in and enter city selector page
-    ![alt text](image.png)
+    ![alt text](docs/image.png)
 
 3. press enter in terminal to continue
 
